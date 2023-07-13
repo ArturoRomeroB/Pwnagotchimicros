@@ -1,0 +1,15 @@
+main.name = "pwnagotchi"
+main.lang = "en"
+main.whitelist = [
+  "Arturomicros",
+]
+
+main.plugins.grid.enabled = true
+main.plugins.grid.report = true
+main.plugins.grid.exclude = [
+  "Loading...xd"
+]
+
+ui.display.enabled = true
+ui.display.type = "waveshare_3"
+ui.display.color = "black"
